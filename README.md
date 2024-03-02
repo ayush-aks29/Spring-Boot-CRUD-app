@@ -30,14 +30,10 @@ This is a Spring Boot application that provides a simple Employee Management Sys
 
 ### Installation
 1. Clone the repository
-  git clone https://github.com/ayush-aks29/Spring-Boot-CRUD-app.git
-
+  
 3. Navigate to the project directory
-  cd Spring-Boot-CRUD-app
-
+  
 5. Build the project
-./mvnw clean install
 
 7. Run the application
-./mvnw spring-boot:run
 
